@@ -22914,7 +22914,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "DNP"
 			(at 36.83 182.88 90)
 			(effects
 				(font
