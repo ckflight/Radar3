@@ -5129,7 +5129,7 @@
 		)
 		(uuid "14912b18-4484-457d-bd19-0298417ad4e9")
 	)
-	(hierarchical_label "ADC_DATA"
+	(hierarchical_label "ADF_DATA"
 		(shape input)
 		(at 30.48 161.29 180)
 		(effects
@@ -5195,7 +5195,7 @@
 		)
 		(uuid "5f2fb5f6-7469-48ca-8d24-df5b895b4036")
 	)
-	(hierarchical_label "ADC_TXDATA"
+	(hierarchical_label "ADF_TXDATA"
 		(shape input)
 		(at 30.48 153.67 180)
 		(effects
@@ -5250,7 +5250,7 @@
 		)
 		(uuid "ab2711dd-58ff-4965-8807-cde7de93e9ea")
 	)
-	(hierarchical_label "ADC_CLK"
+	(hierarchical_label "ADF_CLK"
 		(shape input)
 		(at 30.48 158.75 180)
 		(effects
