@@ -85,7 +85,7 @@
           ""
         ],
         [
-          "clearance|192730000|74570000|383fe738-606a-42fc-8a2a-bde57d799456|505282aa-c5f9-4ac6-9d97-55719de459ec",
+          "clearance|192730000|74570000|45b87468-a4e5-4cf3-89c1-6e3ed725bbec|505282aa-c5f9-4ac6-9d97-55719de459ec",
           ""
         ],
         [
@@ -97,11 +97,11 @@
           ""
         ],
         [
-          "shorting_items|184575000|74570000|24e9d1e1-cd52-4b2e-9a4f-9d2ac2e85a1c|d4a6fb99-453b-43eb-a9cd-1d28d8a0b673",
+          "shorting_items|184575000|74570000|45b87468-a4e5-4cf3-89c1-6e3ed725bbec|d4a6fb99-453b-43eb-a9cd-1d28d8a0b673",
           ""
         ],
         [
-          "shorting_items|192595000|74570000|383fe738-606a-42fc-8a2a-bde57d799456|a74cc254-5300-496c-8c20-c27a861d675a",
+          "shorting_items|192595000|74570000|45b87468-a4e5-4cf3-89c1-6e3ed725bbec|a74cc254-5300-496c-8c20-c27a861d675a",
           ""
         ],
         [
@@ -118,10 +118,6 @@
         ],
         [
           "solder_mask_bridge|183590219|78635430|16121ebe-dc83-40eb-be3d-de891a7a7cce|569c8b9c-3452-42a8-b547-a2a463739c17",
-          ""
-        ],
-        [
-          "solder_mask_bridge|183922213|78401835|16121ebe-dc83-40eb-be3d-de891a7a7cce|569c8b9c-3452-42a8-b547-a2a463739c17",
           ""
         ],
         [
@@ -245,18 +241,6 @@
           ""
         ],
         [
-          "solder_mask_bridge|193479019|88015817|7db76380-f719-4ac2-a768-3b142564483c|d10e9814-f4c9-4002-a7dc-35130a2d97f4",
-          ""
-        ],
-        [
-          "solder_mask_bridge|193487749|101721830|e331f288-c174-45d9-a487-daea3a1cfafc|d10e9814-f4c9-4002-a7dc-35130a2d97f4",
-          ""
-        ],
-        [
-          "solder_mask_bridge|193489419|74710500|e980f16c-f827-4ba5-bdf1-179829098260|d10e9814-f4c9-4002-a7dc-35130a2d97f4",
-          ""
-        ],
-        [
           "track_dangling|184750540|74570000|d4a6fb99-453b-43eb-a9cd-1d28d8a0b673|00000000-0000-0000-0000-000000000000",
           ""
         ]
@@ -308,7 +292,7 @@
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "warning",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
@@ -331,7 +315,7 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.2,
+        "min_copper_edge_clearance": 0.381,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.15,
         "min_hole_to_hole": 0.25,
