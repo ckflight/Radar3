@@ -2178,6 +2178,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 73.66) (xy 83.82 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f21a0e85-829c-46c2-9fe7-1edfda280943")
+	)
+	(wire
+		(pts
 			(xy 40.64 82.55) (xy 38.1 82.55)
 		)
 		(stroke
@@ -2325,6 +2335,16 @@
 			(justify right bottom)
 		)
 		(uuid "278375d2-1430-4bba-878d-dcf11d1195d5")
+	)
+	(label "DET_OUT"
+		(at 83.82 73.66 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d24b42f-3661-4abf-969b-a62b6de21fb6")
 	)
 	(label "MIX_ENBL"
 		(at 118.11 66.04 180)
@@ -4296,6 +4316,16 @@
 		(pin "PA_EN" output
 			(at 81.28 69.85 0)
 			(uuid "97b03024-85aa-4268-9012-8de35948da99")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "DET_OUT" input
+			(at 81.28 73.66 0)
+			(uuid "47a2a6d2-a135-4dd3-8128-a8fff8371053")
 			(effects
 				(font
 					(size 1.524 1.524)

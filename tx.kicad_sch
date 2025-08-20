@@ -2978,10 +2978,10 @@
 		(uuid "a415816a-63b7-4fcf-bfab-f7163c7bf224")
 	)
 	(junction
-		(at 343.408 110.49)
+		(at 353.06 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ab644017-90f4-4a46-be13-d36981086296")
+		(uuid "af9a8a97-aa7e-4cbe-b289-d2f76771b77f")
 	)
 	(junction
 		(at 147.32 160.02)
@@ -3129,16 +3129,6 @@
 	)
 	(wire
 		(pts
-			(xy 343.408 110.49) (xy 344.17 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08e51075-9c18-45ee-817b-25781b3cd978")
-	)
-	(wire
-		(pts
 			(xy 243.84 146.05) (xy 243.84 153.67)
 		)
 		(stroke
@@ -3266,16 +3256,6 @@
 			(type default)
 		)
 		(uuid "16c7c84b-72ab-4e48-a6fa-73579e944640")
-	)
-	(wire
-		(pts
-			(xy 343.408 110.49) (xy 343.408 107.696)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17d29eb7-f41f-4d7b-9818-13de540abbf2")
 	)
 	(wire
 		(pts
@@ -3669,6 +3649,16 @@
 	)
 	(wire
 		(pts
+			(xy 361.95 110.49) (xy 364.49 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e7cf2d2-0cb6-485c-8506-6d3bf014b207")
+	)
+	(wire
+		(pts
 			(xy 147.32 160.02) (xy 147.32 163.83)
 		)
 		(stroke
@@ -3706,16 +3696,6 @@
 			(type default)
 		)
 		(uuid "427b7e07-586f-4908-a7da-946978178d70")
-	)
-	(wire
-		(pts
-			(xy 350.52 106.426) (xy 350.52 107.696)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42ba3d64-760b-4625-8535-0db1b61900fb")
 	)
 	(wire
 		(pts
@@ -3846,6 +3826,16 @@
 			(type default)
 		)
 		(uuid "58590315-b0cc-46f9-adbe-8d5c7c513b63")
+	)
+	(wire
+		(pts
+			(xy 353.06 110.49) (xy 354.33 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58ced37f-272f-4301-be9d-975a2128a947")
 	)
 	(wire
 		(pts
@@ -3999,7 +3989,7 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 110.49) (xy 343.408 110.49)
+			(xy 339.09 110.49) (xy 353.06 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4156,16 +4146,6 @@
 			(type default)
 		)
 		(uuid "894c9821-d4e8-493e-9428-4e9a07f9bd16")
-	)
-	(wire
-		(pts
-			(xy 343.408 107.696) (xy 350.52 107.696)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ad61f9e-a3d8-428d-9b99-99a8376d428f")
 	)
 	(wire
 		(pts
@@ -4699,6 +4679,16 @@
 	)
 	(wire
 		(pts
+			(xy 353.06 106.68) (xy 353.06 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb1d339b-c58b-43c7-90f5-cef9eefa8012")
+	)
+	(wire
+		(pts
 			(xy 83.82 149.86) (xy 87.63 149.86)
 		)
 		(stroke
@@ -5208,7 +5198,7 @@
 	)
 	(hierarchical_label "DET_OUT"
 		(shape output)
-		(at 344.17 110.49 0)
+		(at 364.49 110.49 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10270,7 +10260,7 @@
 	)
 	(symbol
 		(lib_id "SolderPad_1_Circle:SolderPad_1_Circle")
-		(at 350.52 103.886 270)
+		(at 353.06 104.14 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10279,7 +10269,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ed49a0b-4346-4b2f-a77a-deb2d49c9586")
 		(property "Reference" "U36"
-			(at 353.06 103.251 90)
+			(at 355.6 103.505 90)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -10289,7 +10279,7 @@
 			)
 		)
 		(property "Value" "SolderPad_1_Circle"
-			(at 353.06 104.521 90)
+			(at 355.6 104.775 90)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -10299,7 +10289,7 @@
 			)
 		)
 		(property "Footprint" "Footprints:SolderPad_1_1.5mm_SMD_Circle"
-			(at 350.52 103.886 0)
+			(at 353.06 104.14 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -10308,7 +10298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 350.52 103.886 0)
+			(at 353.06 104.14 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -10317,7 +10307,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 350.52 103.886 0)
+			(at 353.06 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10971,6 +10961,71 @@
 			(project "fmcw3"
 				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059396b94"
 					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "fmcw3-rescue:R")
+		(at 358.14 110.49 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cfc95bda-6fd3-4a75-81ea-99090af3b74d")
+		(property "Reference" "R18"
+			(at 358.14 112.522 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 358.1654 110.6678 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "Footprints:SMD_0402"
+			(at 358.14 108.712 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 358.14 110.49 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 358.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "39a95ee1-5369-4ee9-860d-ecb7ec2611d0")
+		)
+		(pin "2"
+			(uuid "24c35ec9-4a6d-4cb1-96a1-f6cbc953904a")
+		)
+		(instances
+			(project "fmcw3"
+				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059396b94"
+					(reference "R18")
 					(unit 1)
 				)
 			)
