@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/ck/Desktop/Workspace/Kicad Workspace/Radar 3 6Layer/fmcw3.kicad_sch")
-    (date "2025-08-20T14:44:04+0300")
+    (date "2025-08-21T12:19:53+0300")
     (tool "Eeschema 9.0.3-9.0.3-0~ubuntu25.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1125,7 +1125,7 @@
       (property (name "Sheetname") (value "fpga"))
       (property (name "Sheetfile") (value "fpga.kicad_sch"))
       (sheetpath (names "/fpga/") (tstamps "/00000000-0000-0000-0000-000059395d6a/"))
-      (tstamps "00000000-0000-0000-0000-0000583d93f0" "00000000-0000-0000-0000-0000583d932b" "00000000-0000-0000-0000-0000583d95c9" "00000000-0000-0000-0000-0000583d94e5" "00000000-0000-0000-0000-0000583d9ca5" "00000000-0000-0000-0000-0000583d9b59" "00000000-0000-0000-0000-0000583d8085"))
+      (tstamps "00000000-0000-0000-0000-0000583d9b59" "00000000-0000-0000-0000-0000583d93f0" "00000000-0000-0000-0000-0000583d932b" "00000000-0000-0000-0000-0000583d9ca5" "00000000-0000-0000-0000-0000583d94e5" "00000000-0000-0000-0000-0000583d95c9" "00000000-0000-0000-0000-0000583d8085"))
     (comp (ref "U40")
       (value "W25Q32JV")
       (footprint "Housings_DFN_QFN:DFN-S-8-1EP_6x5mm_Pitch1.27mm")
