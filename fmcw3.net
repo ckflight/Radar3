@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/ck/Desktop/Workspace/Kicad Workspace/Radar 3 6Layer/fmcw3.kicad_sch")
-    (date "2025-08-21T12:19:53+0300")
+    (date "2025-08-22T10:58:08+0300")
     (tool "Eeschema 9.0.3-9.0.3-0~ubuntu25.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -4960,9 +4960,9 @@
       (tstamps "9ed49a0b-4346-4b2f-a77a-deb2d49c9586"))
     (comp (ref "Z1")
       (value "15dB COUPLER")
-      (footprint "Footprints:Directional_Coupler_15dB_0.23mm_v2")
+      (footprint "Footprints:Directional_Coupler_15dB_0.169mm_v2")
       (fields
-        (field (name "Footprint") "Footprints:Directional_Coupler_15dB_0.23mm_v2")
+        (field (name "Footprint") "Footprints:Directional_Coupler_15dB_0.169mm_v2")
         (field (name "Datasheet"))
         (field (name "Description")))
       (libsource (lib "fmcw3") (part "BRANCHLINE") (description ""))

@@ -8570,7 +8570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints:Directional_Coupler_15dB_0.23mm_v2"
+		(property "Footprint" "Footprints:Directional_Coupler_15dB_0.169mm_v2"
 			(at 368.3 128.27 0)
 			(effects
 				(font
