@@ -7732,10 +7732,6 @@
 		(uuid "7f429766-7f5b-48e0-b103-1cbb089e3a86")
 	)
 	(no_connect
-		(at 123.19 92.71)
-		(uuid "7fe5dcfb-b7e0-42e2-8a84-70aef0bfa3db")
-	)
-	(no_connect
 		(at 229.87 60.96)
 		(uuid "84d4f9cf-d8ce-4213-87d5-2d15aff972f1")
 	)
@@ -7918,6 +7914,10 @@
 	(no_connect
 		(at 335.28 118.11)
 		(uuid "f440c69f-1c0e-484d-91fa-390990b9ee2a")
+	)
+	(no_connect
+		(at 123.19 57.15)
+		(uuid "f516903b-de91-4580-86f0-e049ab4ae306")
 	)
 	(no_connect
 		(at 123.19 115.57)
@@ -9305,6 +9305,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 44.45) (xy 123.19 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4abd06b8-4c8a-4ae4-a7c7-8f0c51eaed1c")
+	)
+	(wire
+		(pts
 			(xy 97.79 246.38) (xy 97.79 248.92)
 		)
 		(stroke
@@ -10042,16 +10052,6 @@
 			(type default)
 		)
 		(uuid "7a2cddb9-59b0-44db-9d0c-c8fbf0b7bd82")
-	)
-	(wire
-		(pts
-			(xy 120.65 57.15) (xy 123.19 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a96df3e-4508-4248-b57d-1cc2dad6c59c")
 	)
 	(wire
 		(pts
@@ -11255,6 +11255,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 92.71) (xy 123.19 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4e110b-c7b3-48a5-ba05-ad4119c82dd7")
+	)
+	(wire
+		(pts
 			(xy 97.79 266.7) (xy 100.33 266.7)
 		)
 		(stroke
@@ -12355,16 +12365,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 44.45) (xy 120.65 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbe438f9-ba89-4118-a5d1-61242687cbc3")
-	)
-	(wire
-		(pts
 			(xy 86.36 195.58) (xy 100.33 195.58)
 		)
 		(stroke
@@ -13283,16 +13283,6 @@
 		)
 		(uuid "87af71f3-46c4-4475-9365-33b0ec1f9b64")
 	)
-	(label "CLKOUT"
-		(at 120.65 44.45 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right bottom)
-		)
-		(uuid "88b309ad-cfe0-4213-8bd0-adbf35f5a3d4")
-	)
 	(label "D8"
 		(at 71.12 95.25 0)
 		(effects
@@ -13404,7 +13394,7 @@
 		(uuid "97a48b83-d10a-447d-b954-35a113f1e1ed")
 	)
 	(label "RD#"
-		(at 120.65 57.15 180)
+		(at 120.65 44.45 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -14072,6 +14062,16 @@
 			(justify right bottom)
 		)
 		(uuid "fb4dd79c-f9e3-4c99-adc9-c083b4f5c736")
+	)
+	(label "CLKOUT"
+		(at 120.65 92.71 180)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "fb66eb17-2727-493f-87b2-fe56fdd99995")
 	)
 	(label "D3"
 		(at 227.33 132.08 180)
