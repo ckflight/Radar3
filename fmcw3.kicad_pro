@@ -93,10 +93,6 @@
           ""
         ],
         [
-          "shorting_items|184575000|74570000|24e9d1e1-cd52-4b2e-9a4f-9d2ac2e85a1c|d4a6fb99-453b-43eb-a9cd-1d28d8a0b673",
-          ""
-        ],
-        [
           "shorting_items|192740000|75170000|5acd2d77-f0eb-4f0e-bf0c-0594b8b4e795|9e55c100-1bab-4abd-a664-304b63c46ac5",
           ""
         ],
@@ -646,6 +642,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"

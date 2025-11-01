@@ -7732,8 +7732,8 @@
 		(uuid "7f429766-7f5b-48e0-b103-1cbb089e3a86")
 	)
 	(no_connect
-		(at 123.19 92.71)
-		(uuid "7fe5dcfb-b7e0-42e2-8a84-70aef0bfa3db")
+		(at 123.19 57.15)
+		(uuid "82032253-afda-4ff6-8270-c5161a44e40c")
 	)
 	(no_connect
 		(at 229.87 60.96)
@@ -10045,16 +10045,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 57.15) (xy 123.19 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a96df3e-4508-4248-b57d-1cc2dad6c59c")
-	)
-	(wire
-		(pts
 			(xy 71.12 95.25) (xy 68.58 95.25)
 		)
 		(stroke
@@ -10462,6 +10452,16 @@
 			(type default)
 		)
 		(uuid "90bd9b25-0c55-477d-a795-bd3bbb9363aa")
+	)
+	(wire
+		(pts
+			(xy 120.65 92.71) (xy 123.19 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91adee8d-d813-4824-8a61-11242eb7ea21")
 	)
 	(wire
 		(pts
@@ -13284,7 +13284,7 @@
 		(uuid "87af71f3-46c4-4475-9365-33b0ec1f9b64")
 	)
 	(label "CLKOUT"
-		(at 120.65 44.45 180)
+		(at 120.65 92.71 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -13404,7 +13404,7 @@
 		(uuid "97a48b83-d10a-447d-b954-35a113f1e1ed")
 	)
 	(label "RD#"
-		(at 120.65 57.15 180)
+		(at 120.65 44.45 180)
 		(effects
 			(font
 				(size 1.524 1.524)
