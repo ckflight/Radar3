@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.16
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -73,31 +73,7 @@
           ""
         ],
         [
-          "solder_mask_bridge|184280000|75225000|d0248cd9-55ed-4b68-870d-f9f24eea66b4|f67e6550-af52-4837-aee5-2eb4fc484b58",
-          ""
-        ],
-        [
-          "solder_mask_bridge|184425000|74685000|d0248cd9-55ed-4b68-870d-f9f24eea66b4|f67e6550-af52-4837-aee5-2eb4fc484b58",
-          ""
-        ],
-        [
-          "solder_mask_bridge|184500000|74600000|820d9bbb-e062-4e03-887f-40f4e8cba745|a74cc254-5300-496c-8c20-c27a861d675a",
-          ""
-        ],
-        [
           "solder_mask_bridge|184990219|78635430|16121ebe-dc83-40eb-be3d-de891a7a7cce|569c8b9c-3452-42a8-b547-a2a463739c17",
-          ""
-        ],
-        [
-          "solder_mask_bridge|192650000|74950000|101bf65f-2ef4-44a2-af42-74ac583d88e0|f67e6550-af52-4837-aee5-2eb4fc484b58",
-          ""
-        ],
-        [
-          "solder_mask_bridge|192740000|74970000|d9097b98-0395-4157-8c51-7f3f3dae4a06|a74cc254-5300-496c-8c20-c27a861d675a",
-          ""
-        ],
-        [
-          "solder_mask_bridge|192740000|75666830|d9097b98-0395-4157-8c51-7f3f3dae4a06|a74cc254-5300-496c-8c20-c27a861d675a",
           ""
         ]
       ],
