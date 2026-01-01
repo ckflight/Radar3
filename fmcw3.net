@@ -1,8 +1,8 @@
 (export (version "E")
   (design
-    (source "C:\\Users\\CK\\Desktop\\Workspace\\Kicad Workspace\\Radar3\\fmcw3.kicad_sch")
-    (date "2025-12-18T14:06:56+0300")
-    (tool "Eeschema 9.0.4")
+    (source "/home/ck/Desktop/Workspace/Kicad Workspace/Radar 3 6Layer/fmcw3.kicad_sch")
+    (date "2026-01-01T12:55:56+0300")
+    (tool "Eeschema 9.0.4-9.0.4-0~ubuntu25.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
         (title)
@@ -3394,7 +3394,7 @@
       (sheetpath (names "/mixer/") (tstamps "/00000000-0000-0000-0000-000059434bd2/"))
       (tstamps "00000000-0000-0000-0000-0000594321ef"))
     (comp (ref "R51")
-      (value "49.9")
+      (value "100")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")
@@ -3407,7 +3407,7 @@
       (sheetpath (names "/mixer/") (tstamps "/00000000-0000-0000-0000-000059434bd2/"))
       (tstamps "00000000-0000-0000-0000-0000593acd85"))
     (comp (ref "R52")
-      (value "49.9")
+      (value "100")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")
@@ -3420,7 +3420,7 @@
       (sheetpath (names "/mixer/") (tstamps "/00000000-0000-0000-0000-000059434bd2/"))
       (tstamps "00000000-0000-0000-0000-0000593acd8c"))
     (comp (ref "R53")
-      (value "49.9")
+      (value "100")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")
@@ -3433,7 +3433,7 @@
       (sheetpath (names "/mixer/") (tstamps "/00000000-0000-0000-0000-000059434bd2/"))
       (tstamps "00000000-0000-0000-0000-000059431056"))
     (comp (ref "R54")
-      (value "49.9")
+      (value "100")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")
@@ -6513,15 +6513,15 @@
         (pin (num "2") (name "2") (type "passive")))))
   (libraries
     (library (logical "Connector")
-      (uri "C:\\Program Files\\KiCad\\9.0\\share\\kicad\\symbols\\/Connector.kicad_sym"))
+      (uri "/usr/share/kicad/symbols//Connector.kicad_sym"))
     (library (logical "Device")
-      (uri "C:\\Program Files\\KiCad\\9.0\\share\\kicad\\symbols\\/Device.kicad_sym"))
+      (uri "/usr/share/kicad/symbols//Device.kicad_sym"))
     (library (logical "LD3920")
       (uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/LD3920.kicad_sym"))
     (library (logical "LMR51420")
       (uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/LMR51420.kicad_sym"))
     (library (logical "Oscillator")
-      (uri "C:\\Program Files\\KiCad\\9.0\\share\\kicad\\symbols\\/Oscillator.kicad_sym"))
+      (uri "/usr/share/kicad/symbols//Oscillator.kicad_sym"))
     (library (logical "Resistor")
       (uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/Resistor.lib"))
     (library (logical "SolderPad_1_Circle")
