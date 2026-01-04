@@ -1098,6 +1098,16 @@
 		)
 		(uuid "23300224-669e-4af1-9c2c-027e31160282")
 	)
+	(text "22 33 ohm can be used"
+		(exclude_from_sim no)
+		(at 105.918 178.562 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "2a5ca40f-5736-4abd-9295-67734cd22a78")
+	)
 	(text "3V0: 70 mA"
 		(exclude_from_sim no)
 		(at 226.06 86.36 0)
@@ -3902,7 +3912,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "0"
 			(at 104.14 171.45 90)
 			(effects
 				(font
