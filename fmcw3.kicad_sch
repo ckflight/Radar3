@@ -1163,7 +1163,7 @@
 		)
 		(uuid "c640fdb2-60fe-4f28-8630-f4c1c1a0860b")
 	)
-	(text "1V0: 100 mA\n1V8: 30 mA\n3V0: 170 mA\n5V: 900 mA\n3.3VA: 540 mA\n3.3VD: 100 mA\n3V6: 80 mA\n10V: 5 mA"
+	(text "1V0: 100 mA\n1V8: 30 mA\n3V0: 170 mA\n5V: 900 mA\n3.3VA: 540 mA\n3.3VD: 100 mA\n3V8: 80 mA\n10V: 5 mA"
 		(exclude_from_sim no)
 		(at 88.9 123.19 0)
 		(effects
@@ -2686,7 +2686,7 @@
 		)
 		(uuid "b5c5acad-5fe0-47b5-801b-1d8123bee7a9")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 78.74 121.92 0)
 		(effects
 			(font
@@ -2766,7 +2766,7 @@
 		)
 		(uuid "d561d457-3f25-49a9-9be5-6d1ab350fe86")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 38.1 53.34 180)
 		(effects
 			(font
@@ -4181,7 +4181,7 @@
 				(justify left)
 			)
 		)
-		(pin "3V6" input
+		(pin "3V8" input
 			(at 40.64 53.34 180)
 			(uuid "a0b3db36-e349-410f-87ba-26759241762b")
 			(effects
@@ -4749,7 +4749,7 @@
 				(justify right)
 			)
 		)
-		(pin "3V6" output
+		(pin "3V8" output
 			(at 76.2 121.92 0)
 			(uuid "986e601a-18ae-4aec-a14d-d6d61461d8a9")
 			(effects

@@ -4830,7 +4830,7 @@
 		)
 		(uuid "2a177996-fb93-4ad2-bf7e-a27a3cdaef83")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 240.03 125.73 180)
 		(effects
 			(font
@@ -4860,7 +4860,7 @@
 		)
 		(uuid "4657d87b-6717-4922-9f24-c73a70d3cff6")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 192.532 86.233 180)
 		(effects
 			(font
@@ -4870,7 +4870,7 @@
 		)
 		(uuid "5d542037-a732-4e4c-86fe-65bd058ffb56")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 234.95 107.442 180)
 		(effects
 			(font
@@ -4890,7 +4890,7 @@
 		)
 		(uuid "70029049-f81d-4945-8373-797c8e5b95f5")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 181.61 125.73 180)
 		(effects
 			(font
@@ -4910,7 +4910,7 @@
 		)
 		(uuid "b2250868-c157-4a97-bda9-b27fe6bde1f7")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 196.977 21.463 180)
 		(effects
 			(font
@@ -4930,7 +4930,7 @@
 		)
 		(uuid "d119d5a5-8a5d-45a1-af80-776de5fb0994")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 172.72 123.19 180)
 		(effects
 			(font
@@ -4992,7 +4992,7 @@
 		)
 		(uuid "14c065e7-dc8f-4a66-8392-dab687aa90f6")
 	)
-	(hierarchical_label "3V6"
+	(hierarchical_label "3V8"
 		(shape output)
 		(at 152.4 93.853 0)
 		(effects
@@ -8114,7 +8114,7 @@
 				)
 			)
 		)
-		(property "Value" "5.6k"
+		(property "Value" "18.7k"
 			(at 248.539 26.543 90)
 			(effects
 				(font
@@ -8179,7 +8179,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "3.3k"
 			(at 248.539 36.703 90)
 			(effects
 				(font
@@ -9850,7 +9850,7 @@
 				)
 			)
 		)
-		(property "Value" "2.61k"
+		(property "Value" "49.9k"
 			(at 247.142 91.313 90)
 			(effects
 				(font
@@ -9915,7 +9915,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "18.7k"
 			(at 247.142 101.473 90)
 			(effects
 				(font
@@ -10895,7 +10895,7 @@
 				)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "18.7K"
 			(at 118.618 111.76 90)
 			(effects
 				(font

@@ -6744,7 +6744,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330n"
+		(property "Value" "2.2n"
 			(at 104.2924 150.749 0)
 			(effects
 				(font
@@ -6810,7 +6810,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "3.3K"
 			(at 91.4654 150.0378 90)
 			(effects
 				(font
@@ -6875,7 +6875,7 @@
 				)
 			)
 		)
-		(property "Value" "240"
+		(property "Value" "1K"
 			(at 108.1278 161.2646 90)
 			(effects
 				(font
@@ -7913,7 +7913,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "0"
 			(at 180.3654 143.6878 90)
 			(effects
 				(font
@@ -7979,7 +7979,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68p"
+		(property "Value" "DNP"
 			(at 189.3824 152.019 0)
 			(effects
 				(font
@@ -8302,7 +8302,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "220p"
 			(at 125.8824 152.019 0)
 			(effects
 				(font

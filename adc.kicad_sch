@@ -1717,6 +1717,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "2/3 VDD clock duty stabilizer \n2s complement signed output\nThis helped for better waveform"
+		(exclude_from_sim no)
+		(at 52.832 130.81 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "b72f86e6-63af-4ba8-8f8e-002e2d834269")
+	)
 	(junction
 		(at 156.21 48.26)
 		(diameter 0)
@@ -5312,7 +5322,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "4.7k"
 			(at 72.39 119.38 90)
 			(effects
 				(font
@@ -5377,7 +5387,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "10k"
 			(at 72.39 129.54 90)
 			(effects
 				(font

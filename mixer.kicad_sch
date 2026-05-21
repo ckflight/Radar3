@@ -4147,7 +4147,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "49.9"
 			(at 213.36 83.82 90)
 			(effects
 				(font
@@ -4212,7 +4212,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "49.9"
 			(at 213.36 93.98 90)
 			(effects
 				(font
@@ -5210,7 +5210,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "49.9"
 			(at 213.36 124.46 90)
 			(effects
 				(font
@@ -5275,7 +5275,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "49.9"
 			(at 213.36 134.62 90)
 			(effects
 				(font

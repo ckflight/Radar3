@@ -4367,7 +4367,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 99.06 27.94 90)
 			(effects
 				(font
@@ -4432,7 +4432,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 99.06 66.04 90)
 			(effects
 				(font
@@ -4765,7 +4765,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 73.66 44.45 90)
 			(effects
 				(font
@@ -4830,7 +4830,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 73.66 52.07 90)
 			(effects
 				(font
@@ -5479,7 +5479,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 93.98 109.22 90)
 			(effects
 				(font
@@ -5544,7 +5544,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 93.98 147.32 90)
 			(effects
 				(font
@@ -5877,7 +5877,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 68.58 125.73 90)
 			(effects
 				(font
@@ -5942,7 +5942,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 68.58 133.35 90)
 			(effects
 				(font
