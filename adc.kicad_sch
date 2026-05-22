@@ -3733,7 +3733,7 @@
 		)
 		(uuid "064cd18f-41cd-4dc2-995f-a4f3b0d78393")
 	)
-	(hierarchical_label "3V6"
+	(hierarchical_label "3V8"
 		(shape input)
 		(at 44.45 34.29 180)
 		(effects

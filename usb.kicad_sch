@@ -5626,7 +5626,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 203.2 101.6 90)
 			(effects
 				(font
@@ -5691,7 +5691,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 213.36 104.14 90)
 			(effects
 				(font
@@ -5756,7 +5756,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 203.2 109.22 90)
 			(effects
 				(font

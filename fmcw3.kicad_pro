@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.3
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -59,24 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "solder_mask_bridge|165150000|94250000|0ea2c146-9bf7-47aa-99eb-de72462d7f5f|0e114c56-e8b6-459c-9c83-68b2170a27e7",
-          ""
-        ],
-        [
-          "solder_mask_bridge|165425000|94250000|0ea2c146-9bf7-47aa-99eb-de72462d7f5f|0e114c56-e8b6-459c-9c83-68b2170a27e7",
-          ""
-        ],
-        [
-          "solder_mask_bridge|183590219|78635430|16121ebe-dc83-40eb-be3d-de891a7a7cce|569c8b9c-3452-42a8-b547-a2a463739c17",
-          ""
-        ],
-        [
-          "solder_mask_bridge|184990219|78635430|16121ebe-dc83-40eb-be3d-de891a7a7cce|569c8b9c-3452-42a8-b547-a2a463739c17",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
