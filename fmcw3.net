@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/ck/Desktop/Workspace/Kicad Workspace/Radar 3/fmcw3.kicad_sch")
-    (date "2026-05-24T10:25:33+0300")
+    (date "2026-05-24T14:01:02+0300")
     (tool "Eeschema 9.0.7-9.0.7~ubuntu25.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -3433,7 +3433,7 @@
       (sheetpath (names "/mixer/") (tstamps "/00000000-0000-0000-0000-000059434bd2/"))
       (tstamps "00000000-0000-0000-0000-00005943105c"))
     (comp (ref "U26")
-      (value "5400BL15B050E")
+      (value "5400BL15B0050001E")
       (footprint "fmcw3:5400BL15B050E")
       (fields
         (field (name "Footprint") "fmcw3:5400BL15B050E")
@@ -3445,7 +3445,7 @@
       (sheetpath (names "/mixer/") (tstamps "/00000000-0000-0000-0000-000059434bd2/"))
       (tstamps "00000000-0000-0000-0000-0000593acd34"))
     (comp (ref "U27")
-      (value "5400BL15B050E")
+      (value "5400BL15B0050001E")
       (footprint "fmcw3:5400BL15B050E")
       (fields
         (field (name "Footprint") "fmcw3:5400BL15B050E")
@@ -3457,7 +3457,7 @@
       (sheetpath (names "/mixer/") (tstamps "/00000000-0000-0000-0000-000059434bd2/"))
       (tstamps "00000000-0000-0000-0000-00005942fd33"))
     (comp (ref "U28")
-      (value "5400BL15B050E")
+      (value "5400BL15B0050001E")
       (footprint "fmcw3:5400BL15B050E")
       (fields
         (field (name "Footprint") "fmcw3:5400BL15B050E")
