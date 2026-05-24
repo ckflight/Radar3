@@ -7326,7 +7326,7 @@
 				)
 			)
 		)
-		(property "Value" "16.7"
+		(property "Value" "16.9"
 			(at 234.9754 134.7978 90)
 			(effects
 				(font
@@ -7391,7 +7391,7 @@
 				)
 			)
 		)
-		(property "Value" "16.7"
+		(property "Value" "16.9"
 			(at 244.0178 126.9746 90)
 			(effects
 				(font
@@ -7456,7 +7456,7 @@
 				)
 			)
 		)
-		(property "Value" "16.7"
+		(property "Value" "16.9"
 			(at 244.0178 142.2146 90)
 			(effects
 				(font

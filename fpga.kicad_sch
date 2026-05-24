@@ -22835,7 +22835,7 @@
 				)
 			)
 		)
-		(property "Value" "240"
+		(property "Value" "1k"
 			(at 251.46 257.81 90)
 			(effects
 				(font
@@ -23410,7 +23410,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_PUSH"
+		(property "Value" "B3U-1000P"
 			(at 23.368 232.41 0)
 			(effects
 				(font
@@ -25729,7 +25729,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_PUSH"
+		(property "Value" "B3U-1000P"
 			(at 192.278 60.96 0)
 			(effects
 				(font
