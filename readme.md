@@ -171,9 +171,7 @@ https://github.com/ckflight/RADAR_24GHZ_NEURAL_NETWORK
 
 # Author
 
-Cenk Keskin
-
-Electronic Warfare RF Self Protection System Engineer
+Cenk KESKİN
 
 ---
 
