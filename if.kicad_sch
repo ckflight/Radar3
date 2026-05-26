@@ -1094,6 +1094,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Second stage of the amplifier is not used.\nFPGA FIR Filter works perfectly. \nCan be removed."
+		(exclude_from_sim no)
+		(at 210.312 89.154 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "debe275f-b382-4e96-ac97-c324b3ab68c9")
+	)
 	(junction
 		(at 127 20.32)
 		(diameter 0)
