@@ -12,6 +12,15 @@ The project integrates:
 - FT2232H USB FIFO streaming
 - Multi-rail low-noise power architecture
 
+<img width="1965" height="1053" alt="Image" src="https://github.com/user-attachments/assets/716a6ad5-dc87-45f9-bb00-872f0a57b33f" />
+
+<img width="2070" height="1128" alt="Image" src="https://github.com/user-attachments/assets/95036364-8d11-4f09-8d7c-2315ae17b74e" />
+<img width="2070" height="1128" alt="Image" src="https://github.com/user-attachments/assets/f70d1eda-28ec-47b1-9dc3-914150351693" />
+<img width="2070" height="1128" alt="Image" src="https://github.com/user-attachments/assets/e5d4a81b-602c-433c-af42-01f68299b019" />
+<img width="2070" height="1128" alt="Image" src="https://github.com/user-attachments/assets/fd771421-aff8-4e17-b73b-a0d71dcc0cff" />
+<img width="2070" height="1128" alt="Image" src="https://github.com/user-attachments/assets/82a9e850-7298-4cf8-b645-c6aa8c67f048" />
+<img width="2070" height="1128" alt="Image" src="https://github.com/user-attachments/assets/534c3a9c-d7fe-4c5f-a111-9f096d9c7310" />
+
 ---
 
 # Overview
