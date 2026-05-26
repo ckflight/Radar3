@@ -5,6 +5,97 @@
 	(uuid "7ce62b21-574f-4136-97a8-1241311aa294")
 	(paper "A4")
 	(lib_symbols
+		(symbol "SolderPad_1_Circle:SolderPad_1_Circle"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -1.905 0 0)
+				(effects
+					(font
+						(size 0.508 0.508)
+						(bold yes)
+					)
+				)
+			)
+			(property "Value" "SolderPad_1_Circle"
+				(at -0.127 -2.032 0)
+				(effects
+					(font
+						(size 0.508 0.508)
+						(bold yes)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SolderPad_1_Circle_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "SolderPad_1_Circle_1_1"
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.4986)
+					(name "1"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "fmcw3-rescue:C"
 			(pin_numbers
 				(hide yes)
@@ -1003,6 +1094,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Second stage of the amplifier is not used.\nFPGA FIR Filter works perfectly. \nCan be removed."
+		(exclude_from_sim no)
+		(at 210.312 89.154 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "debe275f-b382-4e96-ac97-c324b3ab68c9")
+	)
 	(junction
 		(at 127 20.32)
 		(diameter 0)
@@ -1647,6 +1748,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 121.92) (xy 26.67 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "285a3bd0-f708-4dac-8a0a-6634a9abb7e3")
+	)
+	(wire
+		(pts
 			(xy 118.11 64.77) (xy 120.65 64.77)
 		)
 		(stroke
@@ -1904,6 +2015,16 @@
 			(type default)
 		)
 		(uuid "3f1f17fb-ad88-4a04-bdd7-ea98f317cbf7")
+	)
+	(wire
+		(pts
+			(xy 26.67 134.62) (xy 26.67 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41bd6769-455c-4d7a-8343-b6ad00fe5c09")
 	)
 	(wire
 		(pts
@@ -2224,6 +2345,16 @@
 			(type default)
 		)
 		(uuid "6692318b-0882-4a9a-9e62-1d5188240bc4")
+	)
+	(wire
+		(pts
+			(xy 31.75 40.64) (xy 31.75 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68e841b1-a3eb-48ee-ac7b-b85f1c2de8a6")
 	)
 	(wire
 		(pts
@@ -3397,6 +3528,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 53.34) (xy 31.75 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f13cf68b-45f8-4a3b-b955-a65a211ec901")
+	)
+	(wire
+		(pts
 			(xy 196.85 119.38) (xy 196.85 116.84)
 		)
 		(stroke
@@ -4367,7 +4508,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 99.06 27.94 90)
 			(effects
 				(font
@@ -4432,7 +4573,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 99.06 66.04 90)
 			(effects
 				(font
@@ -4765,7 +4906,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 73.66 44.45 90)
 			(effects
 				(font
@@ -4830,7 +4971,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 73.66 52.07 90)
 			(effects
 				(font
@@ -5479,7 +5620,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 93.98 109.22 90)
 			(effects
 				(font
@@ -5544,7 +5685,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "20.5k"
 			(at 93.98 147.32 90)
 			(effects
 				(font
@@ -5877,7 +6018,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 68.58 125.73 90)
 			(effects
 				(font
@@ -5942,7 +6083,7 @@
 				)
 			)
 		)
-		(property "Value" "550"
+		(property "Value" "1k"
 			(at 68.58 133.35 90)
 			(effects
 				(font
@@ -8870,6 +9011,282 @@
 			(project "fmcw3"
 				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059665702"
 					(reference "#PWR0244")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SolderPad_1_Circle:SolderPad_1_Circle")
+		(at 26.67 119.38 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e322b0e-f9a9-4814-aa7d-10308a88244d")
+		(property "Reference" "U37"
+			(at 29.21 118.745 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SolderPad_1_Circle"
+			(at 29.21 120.015 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Footprints:SolderPad_1_1.0mm_SMD_Circle"
+			(at 26.67 119.38 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 119.38 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 26.67 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e64033f6-fd58-4dbf-8e4d-83cf3c460ad7")
+		)
+		(instances
+			(project "fmcw3"
+				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059665702"
+					(reference "U37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SolderPad_1_Circle:SolderPad_1_Circle")
+		(at 31.75 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8b161dcf-9af3-4fbf-b458-a9feb395b88e")
+		(property "Reference" "U5"
+			(at 34.29 57.785 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SolderPad_1_Circle"
+			(at 34.29 59.055 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Footprints:SolderPad_1_1.0mm_SMD_Circle"
+			(at 31.75 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 31.75 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8ace118-0ba0-4348-bdb6-21b2ef126aa5")
+		)
+		(instances
+			(project "fmcw3"
+				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059665702"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SolderPad_1_Circle:SolderPad_1_Circle")
+		(at 31.75 38.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ccd44094-9be1-4fed-b706-93746afd1e1e")
+		(property "Reference" "U2"
+			(at 34.29 37.465 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SolderPad_1_Circle"
+			(at 34.29 38.735 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Footprints:SolderPad_1_1.0mm_SMD_Circle"
+			(at 31.75 38.1 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 38.1 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 31.75 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "097f2b9a-2a57-485b-b9cc-46bd118afc0a")
+		)
+		(instances
+			(project ""
+				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059665702"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SolderPad_1_Circle:SolderPad_1_Circle")
+		(at 26.67 139.7 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f37d9c1c-e0f6-424d-9214-94627765cb86")
+		(property "Reference" "U31"
+			(at 29.21 139.065 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SolderPad_1_Circle"
+			(at 29.21 140.335 90)
+			(effects
+				(font
+					(size 0.508 0.508)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Footprints:SolderPad_1_1.0mm_SMD_Circle"
+			(at 26.67 139.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 139.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 26.67 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dad1ed10-5a72-4a1f-b1c4-eac6cf0aa26a")
+		)
+		(instances
+			(project "fmcw3"
+				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059665702"
+					(reference "U31")
 					(unit 1)
 				)
 			)

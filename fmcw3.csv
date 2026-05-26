@@ -1,173 +1,84 @@
-"Reference","Value","Footprint","Qty"
+"Qty","Value","Footprint"
+"49","100n","Footprints:SMD_0402"
+"18","10p","Footprints:SMD_0402"
+"3","2.2n","Footprints:SMD_0402"
+"8","1u","Footprints:SMD_0603"
+"4","220p","Footprints:SMD_0402"
+"4","2.2u","Footprints:SMD_0603"
+"30","10u","Footprints:SMD_0805"
+"8","10n","Footprints:SMD_0402"
+"30","DNP","Footprints:SMD_0402"
+"8","DNP","Footprints:SMD_0603"
+"4","18p","Footprints:SMD_0402"
+"2","0.5p","Footprints:SMD_0402"
+"13","DNP","Footprints:SMD_0805"
+"22","470n","Footprints:SMD_0402"
+"11","100p","Footprints:SMD_0402"
+"9","4.7u","Footprints:SMD_0603"
+"1","100u","Footprints:SMD_1210"
+"3","47u","Footprints:SMD_1206"
+"2","15p","Footprints:SMD_0402"
+"1","SD_Card_DM3BT","fmcw3:DM3BT-DSF-PEJS"
+"1","BARREL_JACK","Footprints:BarrelJack"
+"6","LED","Footprints:Diode_0603"
+"11","BLM18PG181SN1D","Footprints:SMD_0603"
+"1","MPZ2012S101AT000","Footprints:SMD_0805"
+"1","USB_C_Receptacle_USB2.0","Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+"2","LQW15AN9N9J80D","Footprints:SMD_0402"
+"2","0.6n","Footprints:SMD_0402"
+"3","33u (SRR6040A-330M)","fmcw3:SRR6040A"
+"4","2.2u","Footprints:SMD_0805"
+"1","5.49k","Footprints:SMD_0402"
+"1","3.3K","Footprints:SMD_0402"
+"2","5.1k","Footprints:SMD_0402"
+"1","1K","Footprints:SMD_0402"
+"8","4.7k","Footprints:SMD_0402"
+"16","0","Footprints:SMD_0402"
+"3","16.7","Footprints:SMD_0402"
+"4","33","Footprints:SMD_0402"
+"9","49.9","Footprints:SMD_0402"
+"4","22","Footprints:SMD_0402"
+"2","100","Footprints:SMD_0402"
+"11","1k","Footprints:SMD_0402"
+"2","68k","Footprints:SMD_0402"
+"3","100k","Footprints:SMD_0402"
+"1","18.7K","Footprints:SMD_0402"
+"2","12k","Footprints:SMD_0402"
+"1","18k","Footprints:SMD_0402"
+"2","2k","Footprints:SMD_0402"
+"1","49.9k","Footprints:SMD_0402"
+"2","18.7k","Footprints:SMD_0402"
+"1","3.3k","Footprints:SMD_0402"
+"4","20.5k","Footprints:SMD_0402"
+"3","10k","Footprints:SMD_0402"
+"1","2.2k","Footprints:SMD_0402"
+"1","240","Footprints:SMD_0402"
+"1","27","Footprints:SMD_0402"
+"2","2","Footprints:SMD_0603"
+"1","27.4k","Footprints:SMD_0402"
+"2","SW_PUSH","fmcw3:EVP-AWBA2A"
+"1","ADF4158","fmcw3:VFQFN-24"
+"1","PAT1220-6dB","fmcw3:PAT1220"
+"1","ECS-TXO-3225MV","Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm"
+"1","NB3N551","fmcw3:DFN-8"
+"1","TLV172DCK","TO_SOT_Packages_SMD:SOT-353_SC-70-5"
+"1","LTC2292","Housings_DFN_QFN:QFN-64-1EP_9x9mm_Pitch0.5mm"
+"2","TRF37A73","fmcw3:DFN-8-1EP_2x2mm_Pitch0.5mm"
+"1","HMC431LP4","fmcw3:VQFN-24"
+"2","SKY65404","fmcw3:XFDFN-6"
+"1","PAT1220-3dB","fmcw3:PAT1220"
+"1","TQP5525","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias"
+"3","LMR51420","Footprints:SOT23_6"
+"2","LP5907-3.0","fmcw3:SOT-23-5"
+"1","LP2985A-10DBVR","fmcw3:SOT-23-5"
+"3","LD3920","Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm"
+"1","BU33SD5WG","fmcw3:SOT-23-5"
+"3","5400BL15B050E","fmcw3:5400BL15B050E"
+"1","ADL5802","Housings_DFN_QFN:QFN-24-1EP_4x4mm_Pitch0.5mm"
+"1","XC7A35T-1FTG256C","fmcw3:FTG256"
+"1","93LC46B","fmcw3:SOT-23-6"
+"1","FT2232H","Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm"
+"2","ADA4940-2","fmcw3:VFQFN-24"
+"1","W25Q32JV","Housings_DFN_QFN:DFN-S-8-1EP_6x5mm_Pitch1.27mm"
+"1","ABM10-167-12.000MHZ-T3","fmcw3:ABM10"
 
-"C2, C4, C6, C17, C18, C21, C23-C25, C27, C30, C43, C49, C58, C73-C75, C108, C115, C116, C120-C123, C132, C133, C138, C139, C150-C154, C158-C161, C207, C210-C212, C219, C221, C223-C225, C252, C301, C302","100n","Footprints:SMD_0402","49"
-
-"C3, C5, C7, C8, C11, C44, C53, C109-C114, C134-C137, C300","10p","Footprints:SMD_0402","18"
-
-"C10","330n","Footprints:SMD_0402","1"
-
-"C12, C19, C20, C89, C217, C218, C222, C249","1u","Footprints:SMD_0603","8"
-
-"C13, C14, C28, C95, C128-C131, C179, C206","10n","Footprints:SMD_0402","10"
-
-"C22, C31, C216, C220","2.2u","Footprints:SMD_0603","4"
-
-"C26, C60-C62, C64, C70, C76-C88, C93, C94, C98, C100-C102, C106, C162, C248, C303, C306","10u","Footprints:SMD_0805","30"
-
-"C29","68p","Footprints:SMD_0402","1"
-
-"C35, C45, C47, C50, C51, C54, C56, C59","DNP","Footprints:SMD_0603","8"
-
-"C42, C46, C52, C55","18p","Footprints:SMD_0402","4"
-
-"C48, C57","0.5p","Footprints:SMD_0402","2"
-
-"C71, C72, C103-C105, C107, C169, C172, C173, C177, C178, C214, C215","DNP","Footprints:SMD_0805","13"
-
-"C96, C97, C99, C170, C171, C187, C189-C193, C197-C205, C250, C251","470n","Footprints:SMD_0402","22"
-
-"C117-C119, C163-C168, C180, C213","100p","Footprints:SMD_0402","11"
-
-"C124, C125, C140-C149, C174","DNP","Footprints:SMD_0402","13"
-
-"C126, C127","2.2n","Footprints:SMD_0402","2"
-
-"C155-C157, C183, C185, C186, C188, C194, C195","4.7u","Footprints:SMD_0603","9"
-
-"C181","100u","Footprints:SMD_1210","1"
-
-"C182, C184, C196","47u","Footprints:SMD_1206","3"
-
-"C208, C209","15p","Footprints:SMD_0402","2"
-
-"C304, C305, C307","220p","Footprints:SMD_0402","3"
-
-"CON1","SD_Card_DM3BT","fmcw3:DM3BT-DSF-PEJS","1"
-
-"CON2","BARREL_JACK","fmcw3:EJ508A","1"
-
-"D1, D2, D5, D6","LED","Footprints:Diode_0603","4"
-
-"FB1-FB8, FB12-FB14","BLM18PG181SN1D","Footprints:SMD_0603","11"
-
-"FB11","CIC21P101NE","Footprints:SMD_0805","1"
-
-"L1, L3","LQW15AN9N9J80D","Footprints:SMD_0402","2"
-
-"L2, L4","0.6n","Footprints:SMD_0402","2"
-
-"L5-L7","33u (SRR6040A-330M)","fmcw3:SRR6040A","3"
-
-"L8-L11","2.2u","Footprints:SMD_0805","4"
-
-"P1, P2","SMA","fmcw3:CONSMA003.062","2"
-
-"P3, P4","CONN_02X04","Pin_Headers:Pin_Header_Straight_2x04_Pitch2.54mm_SMD","2"
-
-"Q2","DNP(RE1C002UN)","fmcw3:SOT-416","1"
-
-"R1","5.49k","Footprints:SMD_0402","1"
-
-"R2, R50, R63-R69, R74-R78, R86, R92, R101","DNP","Footprints:SMD_0402","17"
-
-"R4, R24, R109","240","Footprints:SMD_0402","3"
-
-"R5-R7, R82, R112, R117, R118","4.7k","Footprints:SMD_0402","7"
-
-"R9, R11, R12","16.7","Footprints:SMD_0402","3"
-
-"R10, R20, R70, R80, R81, R87, R89-R91, R93, R94, R103, R110, R114, R115","0","Footprints:SMD_0402","15"
-
-"R13, R15, R16, R84, R85, R88, R130","33","Footprints:SMD_0402","7"
-
-"R17, R51-R54, R97-R100","49.9","Footprints:SMD_0402","9"
-
-"R21","22","Footprints:SMD_0402","1"
-
-"R22, R23","100","Footprints:SMD_0402","2"
-
-"R32, R104","68k","Footprints:SMD_0402","2"
-
-"R33, R34, R36","100k","Footprints:SMD_0402","3"
-
-"R35","20k","Footprints:SMD_0402","1"
-
-"R37, R71","12k","Footprints:SMD_0402","2"
-
-"R43","18k","Footprints:SMD_0402","1"
-
-"R44, R49","2k","Footprints:SMD_0402","2"
-
-"R45","2.61k","Footprints:SMD_0402","1"
-
-"R46, R48, R72, R111, R300, R301","1k","Footprints:SMD_0402","6"
-
-"R47","5.6k","Footprints:SMD_0402","1"
-
-"R55-R58","550","Footprints:SMD_0402","4"
-
-"R59-R62","8.2k","Footprints:SMD_0402","4"
-
-"R73, R83","10k","Footprints:SMD_0402","2"
-
-"R79","2.2k","Footprints:SMD_0402","1"
-
-"R302","27","Footprints:SMD_0402","1"
-
-"R303, R305","2","Footprints:SMD_0603","2"
-
-"R304","27.4k","Footprints:SMD_0402","1"
-
-"SW2","SW_PUSH","fmcw3:EVP-AWBA2A","1"
-
-"U1","ADF4158","fmcw3:VFQFN-24","1"
-
-"U3","PAT1220-6dB","fmcw3:PAT1220","1"
-
-"U4","ECS-TXO-3225MV","Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm","1"
-
-"U6","NB3N551","fmcw3:DFN-8","1"
-
-"U7","TLV172DCK","TO_SOT_Packages_SMD:SOT-353_SC-70-5","1"
-
-"U8","LTC2292","Housings_DFN_QFN:QFN-64-1EP_9x9mm_Pitch0.5mm","1"
-
-"U9, U13","TRF37A73","fmcw3:DFN-8-1EP_2x2mm_Pitch0.5mm","2"
-
-"U10","HMC431LP4","fmcw3:VQFN-24","1"
-
-"U11, U16","SKY65404","fmcw3:XFDFN-6","2"
-
-"U12","PAT1220-3dB","fmcw3:PAT1220","1"
-
-"U14","TQP5525","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias","1"
-
-"U15","SMA","fmcw3:CONSMA003.062","1"
-
-"U17-U19","LMR51420","Footprints:SOT23_6","3"
-
-"U20, U39","LP5907-3.0","fmcw3:SOT-23-5","2"
-
-"U21","LP2985A-10DBVR","fmcw3:SOT-23-5","1"
-
-"U22-U24","LD3920","Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm","3"
-
-"U25","BU33SD5WG","fmcw3:SOT-23-5","1"
-
-"U26-U28","5400BL15B050E","fmcw3:5400BL15B050E","3"
-
-"U29","ADL5802","Housings_DFN_QFN:QFN-24-1EP_4x4mm_Pitch0.5mm","1"
-
-"U30","XC7A15T-1FTG256C","fmcw3:FTG256","1"
-
-"U31","USB-MICRO","fmcw3:USB_MICRO","1"
-
-"U32","93LC46B","fmcw3:SOT-23-6","1"
-
-"U33","FT2232H","Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm","1"
-
-"U34, U35","ADA4940-2","fmcw3:VFQFN-24","2"
-
-"U40","W25Q32JV","Housings_DFN_QFN:DFN-S-8-1EP_6x5mm_Pitch1.27mm","1"
-
-"Y1","ABM10-167-12.000MHZ-T3","fmcw3:ABM10","1"

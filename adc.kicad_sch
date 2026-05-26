@@ -1717,6 +1717,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "2/3 VDD clock duty stabilizer \n2s complement signed output\nThis helped for better waveform"
+		(exclude_from_sim no)
+		(at 52.832 130.81 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "b72f86e6-63af-4ba8-8f8e-002e2d834269")
+	)
+	(text "Important Note: ECS-TXO-3225MV is pure sin. Adc does not like sin i guess.\nOther ref designed used clipped more square like sin. That is why\nclock stabilizer is needed."
+		(exclude_from_sim no)
+		(at 65.532 148.59 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "ff1d233a-bec1-441e-ba40-b0f5e25df955")
+	)
 	(junction
 		(at 156.21 48.26)
 		(diameter 0)
@@ -3723,7 +3743,7 @@
 		)
 		(uuid "064cd18f-41cd-4dc2-995f-a4f3b0d78393")
 	)
-	(hierarchical_label "3V6"
+	(hierarchical_label "3V8"
 		(shape input)
 		(at 44.45 34.29 180)
 		(effects
@@ -5312,7 +5332,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "4.7k"
 			(at 72.39 119.38 90)
 			(effects
 				(font
@@ -5377,7 +5397,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "10k"
 			(at 72.39 129.54 90)
 			(effects
 				(font
@@ -7191,7 +7211,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "33"
 			(at 116.84 78.74 90)
 			(effects
 				(font

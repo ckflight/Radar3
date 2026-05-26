@@ -2832,7 +2832,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 45.72) (xy 21.59 49.53)
+			(xy 168.91 123.19) (xy 168.91 127)
 		)
 		(stroke
 			(width 0)
@@ -3342,16 +3342,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 137.16) (xy 172.72 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52b7f880-42e1-4b73-bdaa-5d8fd20fee5e")
-	)
-	(wire
-		(pts
 			(xy 241.554 52.959) (xy 248.031 52.959)
 		)
 		(stroke
@@ -3732,16 +3722,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 123.19) (xy 172.72 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8201c86b-8348-4c53-941e-8e8dcf52d7fb")
-	)
-	(wire
-		(pts
 			(xy 36.83 24.13) (xy 41.91 24.13)
 		)
 		(stroke
@@ -4052,7 +4032,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 59.69) (xy 21.59 57.15)
+			(xy 168.91 137.16) (xy 168.91 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4830,7 +4810,7 @@
 		)
 		(uuid "2a177996-fb93-4ad2-bf7e-a27a3cdaef83")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 240.03 125.73 180)
 		(effects
 			(font
@@ -4860,7 +4840,7 @@
 		)
 		(uuid "4657d87b-6717-4922-9f24-c73a70d3cff6")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 192.532 86.233 180)
 		(effects
 			(font
@@ -4870,7 +4850,7 @@
 		)
 		(uuid "5d542037-a732-4e4c-86fe-65bd058ffb56")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 234.95 107.442 180)
 		(effects
 			(font
@@ -4890,7 +4870,7 @@
 		)
 		(uuid "70029049-f81d-4945-8373-797c8e5b95f5")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 181.61 125.73 180)
 		(effects
 			(font
@@ -4900,8 +4880,8 @@
 		)
 		(uuid "89e77cad-b17b-4bb4-b1e9-8d261aab52c3")
 	)
-	(label "3V6"
-		(at 21.59 45.72 0)
+	(label "3V8"
+		(at 168.91 123.19 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -4910,7 +4890,7 @@
 		)
 		(uuid "b2250868-c157-4a97-bda9-b27fe6bde1f7")
 	)
-	(label "3V6"
+	(label "3V8"
 		(at 196.977 21.463 180)
 		(effects
 			(font
@@ -4929,16 +4909,6 @@
 			(justify left bottom)
 		)
 		(uuid "d119d5a5-8a5d-45a1-af80-776de5fb0994")
-	)
-	(label "3V6"
-		(at 172.72 123.19 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right bottom)
-		)
-		(uuid "d357ef7c-eeec-4bcf-be26-a788247c07c4")
 	)
 	(label "5V6"
 		(at 193.802 52.959 180)
@@ -4992,7 +4962,7 @@
 		)
 		(uuid "14c065e7-dc8f-4a66-8392-dab687aa90f6")
 	)
-	(hierarchical_label "3V6"
+	(hierarchical_label "3V8"
 		(shape output)
 		(at 152.4 93.853 0)
 		(effects
@@ -5334,7 +5304,7 @@
 				)
 			)
 		)
-		(property "Value" "CIC21P101NE"
+		(property "Value" "MPZ2012S101AT000"
 			(at 62.23 24.13 0)
 			(effects
 				(font
@@ -5771,7 +5741,7 @@
 	)
 	(symbol
 		(lib_id "fmcw3-rescue:LED")
-		(at 21.59 64.77 90)
+		(at 168.91 142.24 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5779,7 +5749,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000593eba52")
 		(property "Reference" "D1"
-			(at 19.05 64.77 0)
+			(at 166.37 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5787,7 +5757,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 24.13 64.77 0)
+			(at 171.45 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5795,7 +5765,7 @@
 			)
 		)
 		(property "Footprint" "Footprints:Diode_0603"
-			(at 21.59 64.77 0)
+			(at 168.91 142.24 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5804,7 +5774,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 64.77 0)
+			(at 168.91 142.24 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5812,7 +5782,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 21.59 64.77 0)
+			(at 168.91 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,7 +5806,7 @@
 	)
 	(symbol
 		(lib_id "fmcw3-rescue:GND")
-		(at 21.59 69.85 0)
+		(at 168.91 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5844,7 +5814,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000593ebae3")
 		(property "Reference" "#PWR0151"
-			(at 21.59 76.2 0)
+			(at 168.91 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5853,7 +5823,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 21.59 73.66 0)
+			(at 168.91 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5861,7 +5831,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 21.59 69.85 0)
+			(at 168.91 147.32 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5869,7 +5839,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 69.85 0)
+			(at 168.91 147.32 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5877,7 +5847,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 21.59 69.85 0)
+			(at 168.91 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5898,7 +5868,7 @@
 	)
 	(symbol
 		(lib_id "fmcw3-rescue:R")
-		(at 21.59 53.34 0)
+		(at 168.91 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5906,7 +5876,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000593ebb4b")
 		(property "Reference" "R24"
-			(at 23.622 53.34 90)
+			(at 170.942 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5914,7 +5884,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 21.59 53.34 90)
+			(at 168.91 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5922,7 +5892,7 @@
 			)
 		)
 		(property "Footprint" "Footprints:SMD_0402"
-			(at 19.812 53.34 90)
+			(at 167.132 130.81 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -5931,7 +5901,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 53.34 0)
+			(at 168.91 130.81 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -5939,7 +5909,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 21.59 53.34 0)
+			(at 168.91 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8114,7 +8084,7 @@
 				)
 			)
 		)
-		(property "Value" "5.6k"
+		(property "Value" "18.7k"
 			(at 248.539 26.543 90)
 			(effects
 				(font
@@ -8179,7 +8149,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "3.3k"
 			(at 248.539 36.703 90)
 			(effects
 				(font
@@ -9850,7 +9820,7 @@
 				)
 			)
 		)
-		(property "Value" "2.61k"
+		(property "Value" "49.9k"
 			(at 247.142 91.313 90)
 			(effects
 				(font
@@ -9915,7 +9885,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "18.7k"
 			(at 247.142 101.473 90)
 			(effects
 				(font
@@ -10895,7 +10865,7 @@
 				)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "18.7K"
 			(at 118.618 111.76 90)
 			(effects
 				(font
@@ -12428,71 +12398,6 @@
 		)
 	)
 	(symbol
-		(lib_id "fmcw3-rescue:LED")
-		(at 172.72 142.24 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "713446e2-ebe4-4d4f-9cf3-99ff14ec8d5c")
-		(property "Reference" "D4"
-			(at 170.18 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 175.26 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Footprints:Diode_0603"
-			(at 172.72 142.24 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 142.24 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 172.72 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a9df54d9-02e7-4826-b432-bcbb829f2b78")
-		)
-		(pin "2"
-			(uuid "891cd58b-9b1f-402b-9bb4-6db5c7677d6c")
-		)
-		(instances
-			(project "fmcw3"
-				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "fmcw3-rescue:C")
 		(at 82.423 100.838 90)
 		(unit 1)
@@ -12774,68 +12679,6 @@
 			(project "fmcw3"
 				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "fmcw3-rescue:GND")
-		(at 172.72 147.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8824eab5-3769-4a20-a3fc-a4d284cb48ca")
-		(property "Reference" "#PWR0165"
-			(at 172.72 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 172.72 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 172.72 147.32 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 147.32 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 172.72 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "71ec02f9-f86f-4e09-b9a7-9e0ef500cacb")
-		)
-		(instances
-			(project "fmcw3"
-				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285"
-					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -13752,71 +13595,6 @@
 			(project "fmcw3"
 				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285"
 					(reference "C61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "fmcw3-rescue:R")
-		(at 172.72 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ee0cc325-4715-4623-8046-ae73cdf363e5")
-		(property "Reference" "R26"
-			(at 174.752 130.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 172.72 130.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Footprints:SMD_0402"
-			(at 170.942 130.81 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 130.81 0)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 172.72 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d79bbd84-63fd-4b09-975e-1b1c4af95c04")
-		)
-		(pin "2"
-			(uuid "403bc5c7-c0bd-41e7-8b0b-ac6a16a3949f")
-		)
-		(instances
-			(project "fmcw3"
-				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285"
-					(reference "R26")
 					(unit 1)
 				)
 			)

@@ -180,4 +180,6 @@
   (lib (name "XILINX6S")(type "Legacy")(uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/XILINX6S.lib")(options "")(descr ""))
   (lib (name "XILINX7")(type "Legacy")(uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/XILINX7.lib")(options "")(descr ""))
   (lib (name "XILINX_ULTRA")(type "Legacy")(uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/XILINX_ULTRA.lib")(options "")(descr ""))
+  (lib (name "PL133_37")(type "KiCad")(uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/PL133_37.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-TXO-32CSMV")(type "KiCad")(uri "/home/ck/Desktop/Workspace/Kicad Workspace/_LIBRARY AND FOOTPRINT/Library/ECS-TXO-32CSMV.kicad_sym")(options "")(descr ""))
 )
