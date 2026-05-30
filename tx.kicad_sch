@@ -5108,7 +5108,7 @@
 		)
 		(uuid "0198aaae-b79f-4981-be75-f518d5a1b50e")
 	)
-	(hierarchical_label "REFIN"
+	(hierarchical_label "ADF_CLK_REF"
 		(shape input)
 		(at 30.48 139.7 180)
 		(effects
