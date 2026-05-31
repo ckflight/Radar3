@@ -879,7 +879,7 @@
 		)
 		(uuid "4c4279ce-9d75-4007-bd34-746d0908ae40")
 	)
-	(label "ADC_VCM2"
+	(label "ADC_VCMB"
 		(at 83.82 50.8 180)
 		(effects
 			(font
@@ -1009,7 +1009,7 @@
 		)
 		(uuid "8319be71-7c4d-4aff-a993-fe50896ecd80")
 	)
-	(label "ADC_VCM1"
+	(label "ADC_VCMA"
 		(at 193.04 109.22 0)
 		(effects
 			(font
@@ -1169,7 +1169,7 @@
 		)
 		(uuid "c8ccea8d-ae20-4b1c-918e-9da58a2b908c")
 	)
-	(label "ADC_VCM1"
+	(label "ADC_VCMA"
 		(at 83.82 41.91 180)
 		(effects
 			(font
@@ -1249,7 +1249,7 @@
 		)
 		(uuid "e4ce4911-172f-4253-b3a1-eb1ac2a6f43b")
 	)
-	(label "ADC_VCM2"
+	(label "ADC_VCMB"
 		(at 193.04 111.76 0)
 		(effects
 			(font
@@ -1483,7 +1483,7 @@
 				(justify left)
 			)
 		)
-		(pin "ADC_VCM1" output
+		(pin "ADC_VCMA" output
 			(at 88.9 41.91 180)
 			(uuid "a1aab9b3-2b3d-4c33-b782-1f4a2bfb605d")
 			(effects
@@ -1493,7 +1493,7 @@
 				(justify left)
 			)
 		)
-		(pin "ADC_VCM2" output
+		(pin "ADC_VCMB" output
 			(at 88.9 50.8 180)
 			(uuid "508ecd04-857d-4011-aa8b-ccf944f070b3")
 			(effects
@@ -2147,7 +2147,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-000059665702")
-		(property "Sheetname" "if"
+		(property "Sheetname" "opamp_amp"
 			(at 162.56 93.1414 0)
 			(effects
 				(font
@@ -2156,7 +2156,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "if.kicad_sch"
+		(property "Sheetfile" "opamp_amp.kicad_sch"
 			(at 162.56 120.0662 0)
 			(effects
 				(font
@@ -2255,7 +2255,7 @@
 				(justify right)
 			)
 		)
-		(pin "VCOM1" input
+		(pin "VCMA" input
 			(at 190.5 109.22 0)
 			(uuid "dec30134-76c7-4ace-9397-d9f858852da0")
 			(effects
@@ -2265,7 +2265,7 @@
 				(justify right)
 			)
 		)
-		(pin "VCOM2" input
+		(pin "VCMB" input
 			(at 190.5 111.76 0)
 			(uuid "28eb2125-4bc7-4b00-b239-a42333922ea9")
 			(effects
