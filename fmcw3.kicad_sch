@@ -8,17 +8,6 @@
 		(title "FMCW3 by CENK KESKİN")
 	)
 	(lib_symbols)
-	(text "3V3A: 5 mA"
-		(exclude_from_sim no)
-		(at 193.04 120.65 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2b08bbc-47bd-44fb-9920-cda644a0cc9d")
-	)
 	(wire
 		(pts
 			(xy 190.5 109.22) (xy 193.04 109.22)
