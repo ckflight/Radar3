@@ -2526,7 +2526,7 @@
 				)
 			)
 		)
-		(property "Value" "ECS-TXO-32CSMV"
+		(property "Value" "ECS ECS-TXO-32CSMV-400"
 			(at 120.65 103.124 0)
 			(effects
 				(font

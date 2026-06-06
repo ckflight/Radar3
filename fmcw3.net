@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/ck/Desktop/Workspace/Kicad Workspace/Radar 3/fmcw3.kicad_sch")
-    (date "2026-06-04T20:09:34+0300")
+    (date "2026-06-06T13:45:13+0300")
     (tool "Eeschema 9.0.7-9.0.7~ubuntu25.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -368,7 +368,7 @@
       (property (name "Sheetname") (value "fpga"))
       (property (name "Sheetfile") (value "fpga.kicad_sch"))
       (sheetpath (names "/fpga/") (tstamps "/00000000-0000-0000-0000-000059395d6a/"))
-      (tstamps "00000000-0000-0000-0000-0000583d9ca5" "00000000-0000-0000-0000-0000583d932b" "00000000-0000-0000-0000-0000583d94e5" "00000000-0000-0000-0000-0000583d93f0" "00000000-0000-0000-0000-0000583d9b59" "00000000-0000-0000-0000-0000583d95c9" "00000000-0000-0000-0000-0000583d8085"))
+      (tstamps "00000000-0000-0000-0000-0000583d9ca5" "00000000-0000-0000-0000-0000583d94e5" "00000000-0000-0000-0000-0000583d932b" "00000000-0000-0000-0000-0000583d93f0" "00000000-0000-0000-0000-0000583d9b59" "00000000-0000-0000-0000-0000583d95c9" "00000000-0000-0000-0000-0000583d8085"))
     (comp (ref "U35")
       (value "SolderPad_1_Circle")
       (footprint "Footprints:SolderPad_1_1.0mm_SMD_Circle")
@@ -4736,7 +4736,7 @@
       (sheetpath (names "/clock/") (tstamps "/ef082ebf-8892-49e8-840e-f48822009840/"))
       (tstamps "da6111d9-4640-4d93-b25e-4d2aaf5eee06"))
     (comp (ref "Y2")
-      (value "ECS-TXO-32CSMV")
+      (value "ECS ECS-TXO-32CSMV-400")
       (footprint "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm")
       (datasheet "https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf")
       (description "HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD")
