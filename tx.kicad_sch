@@ -2762,12 +2762,6 @@
 		(uuid "026daad5-45aa-449e-af13-6233ad956664")
 	)
 	(junction
-		(at 55.88 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "047ff273-7e6a-46f3-a421-81f4792671cb")
-	)
-	(junction
 		(at 227.33 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2922,12 +2916,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "82e45037-16c5-4e0c-8373-e4dd931b3286")
-	)
-	(junction
-		(at 60.96 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c14977b-834f-41a0-9901-85fd20ce4376")
 	)
 	(junction
 		(at 312.42 135.89)
@@ -4099,16 +4087,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 86.36) (xy 62.23 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82d6e72b-0200-4bb4-b741-22c5529095d1")
-	)
-	(wire
-		(pts
 			(xy 50.8 128.27) (xy 53.34 128.27)
 		)
 		(stroke
@@ -4156,16 +4134,6 @@
 			(type default)
 		)
 		(uuid "8bd79467-f42c-42ba-bc7f-917069517817")
-	)
-	(wire
-		(pts
-			(xy 60.96 87.63) (xy 60.96 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d270ee9-4e82-43b5-9b41-8602ab7eb9e4")
 	)
 	(wire
 		(pts
@@ -4349,16 +4317,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 86.36) (xy 60.96 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a21e83da-4740-4756-97cd-7b15a03adfd0")
-	)
-	(wire
-		(pts
 			(xy 273.05 120.65) (xy 280.67 120.65)
 		)
 		(stroke
@@ -4376,16 +4334,6 @@
 			(type default)
 		)
 		(uuid "a85c993d-2c7c-40f0-b0d6-65d2bc95a884")
-	)
-	(wire
-		(pts
-			(xy 55.88 87.63) (xy 55.88 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa7cb31d-f16c-4677-83e6-f35a1c24da97")
 	)
 	(wire
 		(pts
@@ -4459,7 +4407,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 86.36) (xy 55.88 86.36)
+			(xy 53.34 86.36) (xy 62.23 86.36)
 		)
 		(stroke
 			(width 0)
@@ -9073,264 +9021,6 @@
 			(project "fmcw3"
 				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059396b94"
 					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "fmcw3-rescue:C")
-		(at 60.96 91.44 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000059785869")
-		(property "Reference" "C214"
-			(at 60.96 93.98 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNP"
-			(at 60.8076 89.281 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Footprints:SMD_0805"
-			(at 59.9948 87.63 0)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 91.44 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1a2b5e82-082e-4102-9124-2fdbae21ecb5")
-		)
-		(pin "2"
-			(uuid "1b9211f7-df0e-4acf-a36b-c0ebc44c6d18")
-		)
-		(instances
-			(project "fmcw3"
-				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059396b94"
-					(reference "C214")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "fmcw3-rescue:GND")
-		(at 60.96 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000059785c56")
-		(property "Reference" "#PWR0253"
-			(at 60.96 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 60.96 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 95.25 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 95.25 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bf833bfe-0388-4b20-bc9e-972e5534c1a6")
-		)
-		(instances
-			(project "fmcw3"
-				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059396b94"
-					(reference "#PWR0253")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "fmcw3-rescue:C")
-		(at 55.88 91.44 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000597864f6")
-		(property "Reference" "C215"
-			(at 55.88 93.98 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNP"
-			(at 55.7276 89.281 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Footprints:SMD_0805"
-			(at 54.9148 87.63 0)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 91.44 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 55.88 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "da547e5a-e03c-45be-a8ca-b8830988cb50")
-		)
-		(pin "2"
-			(uuid "28fa4028-676e-4242-a3c9-e21212469d8b")
-		)
-		(instances
-			(project "fmcw3"
-				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059396b94"
-					(reference "C215")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "fmcw3-rescue:GND")
-		(at 55.88 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000597866a7")
-		(property "Reference" "#PWR0254"
-			(at 55.88 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 55.88 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.88 95.25 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 95.25 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 55.88 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f38f21c0-fc7d-4f03-b540-5b6340dfaa72")
-		)
-		(instances
-			(project "fmcw3"
-				(path "/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-000059396b94"
-					(reference "#PWR0254")
 					(unit 1)
 				)
 			)

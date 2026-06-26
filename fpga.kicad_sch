@@ -11107,7 +11107,7 @@
 		)
 		(uuid "07abbc0e-4c6b-4587-8314-0eb4b4fde16c")
 	)
-	(hierarchical_label "ADC_VCM2"
+	(hierarchical_label "ADC_VCMB"
 		(shape output)
 		(at 132.08 203.2 180)
 		(effects
@@ -11327,7 +11327,7 @@
 		)
 		(uuid "8aedd2ff-2caf-40a0-af82-5dd72c8c76a7")
 	)
-	(hierarchical_label "ADC_VCM1"
+	(hierarchical_label "ADC_VCMA"
 		(shape output)
 		(at 132.08 200.66 180)
 		(effects
