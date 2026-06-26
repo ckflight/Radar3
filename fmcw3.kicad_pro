@@ -374,6 +374,10 @@
         ""
       ],
       [
+        "power_pin_not_driven|539750|1308100|8c0fec9e-87db-45d5-a8b7-1b94e0d2cfcb|00000000-0000-0000-0000-000000000000|/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285|/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285|",
+        ""
+      ],
+      [
         "power_pin_not_driven|558800|1701800|7c159d4c-457d-4db5-874b-26e906b585f9|00000000-0000-0000-0000-000000000000|/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285|/25ababa6-1178-4b22-9ad6-058222120a27/00000000-0000-0000-0000-0000593d9285|",
         ""
       ],
@@ -781,7 +785,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "space_save_all_events": true,
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
