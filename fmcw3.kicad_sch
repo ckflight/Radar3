@@ -1684,7 +1684,7 @@
 				(justify left)
 			)
 		)
-		(pin "3V3" input
+		(pin "3V3A" input
 			(at 168.91 43.18 180)
 			(uuid "fcacf0ed-68bb-4f3e-a4b1-483e3a5fe097")
 			(effects

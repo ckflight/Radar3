@@ -5035,7 +5035,7 @@
 		)
 		(uuid "ff74f21e-8715-4d91-92e1-6baa88805591")
 	)
-	(label "3V3"
+	(label "3V3A"
 		(at 50.8 111.76 0)
 		(effects
 			(font
@@ -5155,7 +5155,7 @@
 		)
 		(uuid "802648f4-984e-43e8-af6f-d9570ceba08a")
 	)
-	(hierarchical_label "3V3"
+	(hierarchical_label "3V3A"
 		(shape input)
 		(at 45.72 110.49 180)
 		(effects
