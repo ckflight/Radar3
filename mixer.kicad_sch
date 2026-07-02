@@ -2802,7 +2802,7 @@
 		)
 		(uuid "96a8ae44-29b4-4dc6-9f99-cf87c8a2310c")
 	)
-	(hierarchical_label "IF1+"
+	(hierarchical_label "IF1-"
 		(shape output)
 		(at 236.22 74.93 0)
 		(effects
@@ -2813,7 +2813,7 @@
 		)
 		(uuid "b418e640-b7a4-4ce1-8999-95085906dbf6")
 	)
-	(hierarchical_label "IF1-"
+	(hierarchical_label "IF1+"
 		(shape output)
 		(at 236.22 72.39 0)
 		(effects
