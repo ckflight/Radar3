@@ -1694,7 +1694,7 @@
 				(justify left)
 			)
 		)
-		(pin "TX_COUPLED" output
+		(pin "TX_LO" output
 			(at 203.2 38.1 0)
 			(uuid "e2a13f33-e1a4-4315-b330-8aa5cb57a8fd")
 			(effects

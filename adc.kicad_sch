@@ -3776,7 +3776,7 @@
 		)
 		(uuid "2eef05d1-8ddd-4669-8887-c7223e8de5bd")
 	)
-	(hierarchical_label "ADC2-"
+	(hierarchical_label "ADC2+"
 		(shape input)
 		(at 45.72 68.58 180)
 		(effects
@@ -3842,7 +3842,7 @@
 		)
 		(uuid "658fdd1a-4907-4315-8da5-6143946dd956")
 	)
-	(hierarchical_label "ADC2+"
+	(hierarchical_label "ADC2-"
 		(shape input)
 		(at 45.72 71.12 180)
 		(effects

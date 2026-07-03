@@ -5199,7 +5199,7 @@
 		)
 		(uuid "cd58eb4a-5830-47bc-ba58-3b3332ffb362")
 	)
-	(hierarchical_label "TX_COUPLED"
+	(hierarchical_label "TX_LO"
 		(shape output)
 		(at 358.14 156.21 270)
 		(effects
