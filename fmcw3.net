@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/ck/Desktop/Workspace/Kicad Workspace/Radar 3/fmcw3.kicad_sch")
-    (date "2026-07-04T21:39:47+0300")
+    (date "2026-07-07T20:48:55+0300")
     (tool "Eeschema 9.0.7-9.0.7~ubuntu25.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -368,7 +368,7 @@
       (property (name "Sheetname") (value "fpga"))
       (property (name "Sheetfile") (value "fpga.kicad_sch"))
       (sheetpath (names "/fpga/") (tstamps "/00000000-0000-0000-0000-000059395d6a/"))
-      (tstamps "00000000-0000-0000-0000-0000583d9ca5" "00000000-0000-0000-0000-0000583d94e5" "00000000-0000-0000-0000-0000583d932b" "00000000-0000-0000-0000-0000583d93f0" "00000000-0000-0000-0000-0000583d9b59" "00000000-0000-0000-0000-0000583d95c9" "00000000-0000-0000-0000-0000583d8085"))
+      (tstamps "00000000-0000-0000-0000-0000583d9ca5" "00000000-0000-0000-0000-0000583d9b59" "00000000-0000-0000-0000-0000583d95c9" "00000000-0000-0000-0000-0000583d93f0" "00000000-0000-0000-0000-0000583d932b" "00000000-0000-0000-0000-0000583d94e5" "00000000-0000-0000-0000-0000583d8085"))
     (comp (ref "U35")
       (value "SolderPad_1_Circle")
       (footprint "Footprints:SolderPad_1_1.0mm_SMD_Circle")
