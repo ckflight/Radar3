@@ -11443,7 +11443,7 @@
 				)
 			)
 		)
-		(property "Value" "XC7A35T-1FTG256C"
+		(property "Value" "XC7A100T-1FTG256C"
 			(at 163.83 22.86 0)
 			(effects
 				(font
@@ -12271,7 +12271,7 @@
 				)
 			)
 		)
-		(property "Value" "XC7A35T-1FTG256C"
+		(property "Value" "XC7A100T-1FTG256C"
 			(at 246.38 22.86 0)
 			(effects
 				(font
@@ -13099,7 +13099,7 @@
 				)
 			)
 		)
-		(property "Value" "XC7A35T-1FTG256C"
+		(property "Value" "XC7A100T-1FTG256C"
 			(at 341.63 22.86 0)
 			(effects
 				(font
@@ -13927,7 +13927,7 @@
 				)
 			)
 		)
-		(property "Value" "XC7A35T-1FTG256C"
+		(property "Value" "XC7A100T-1FTG256C"
 			(at 71.12 142.24 0)
 			(effects
 				(font
@@ -14755,7 +14755,7 @@
 				)
 			)
 		)
-		(property "Value" "XC7A35T-1FTG256C"
+		(property "Value" "XC7A100T-1FTG256C"
 			(at 326.39 184.15 0)
 			(effects
 				(font
@@ -15583,7 +15583,7 @@
 				)
 			)
 		)
-		(property "Value" "XC7A35T-1FTG256C"
+		(property "Value" "XC7A100T-1FTG256C"
 			(at 262.89 181.61 0)
 			(effects
 				(font
@@ -16411,7 +16411,7 @@
 				)
 			)
 		)
-		(property "Value" "XC7A35T-1FTG256C"
+		(property "Value" "XC7A100T-1FTG256C"
 			(at 68.58 27.94 0)
 			(effects
 				(font

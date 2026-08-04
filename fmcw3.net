@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/ck/Desktop/Workspace/Kicad Workspace/Radar 3/fmcw3.kicad_sch")
-    (date "2026-07-07T20:48:55+0300")
+    (date "2026-08-04T15:22:22+0300")
     (tool "Eeschema 9.0.7-9.0.7~ubuntu25.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -357,7 +357,7 @@
       (sheetpath (names "/fpga/") (tstamps "/00000000-0000-0000-0000-000059395d6a/"))
       (tstamps "ede887f8-f863-47e4-87ac-756e818e2610"))
     (comp (ref "U30")
-      (value "XC7A35T-1FTG256C")
+      (value "XC7A100T-1FTG256C")
       (footprint "fmcw3:FTG256")
       (datasheet "DOCUMENTATION")
       (fields
@@ -3059,7 +3059,7 @@
       (sheetpath (names "/opamp_amp/") (tstamps "/00000000-0000-0000-0000-000059665702/"))
       (tstamps "72b75622-a7dc-41f4-9a24-abfd87afd82c"))
     (comp (ref "R26")
-      (value "500")
+      (value "1k")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")
@@ -3072,7 +3072,7 @@
       (sheetpath (names "/opamp_amp/") (tstamps "/00000000-0000-0000-0000-000059665702/"))
       (tstamps "7609bbc0-bd40-473b-85e8-ac8e5a3b62ae"))
     (comp (ref "R28")
-      (value "500")
+      (value "1k")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")
@@ -3111,7 +3111,7 @@
       (sheetpath (names "/opamp_amp/") (tstamps "/00000000-0000-0000-0000-000059665702/"))
       (tstamps "d6e49b71-3ba4-46bd-91bf-8bdc881ead91"))
     (comp (ref "R31")
-      (value "500")
+      (value "1k")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")
@@ -3124,7 +3124,7 @@
       (sheetpath (names "/opamp_amp/") (tstamps "/00000000-0000-0000-0000-000059665702/"))
       (tstamps "bf9c83b8-11c7-49d7-b94d-907b313a4b74"))
     (comp (ref "R38")
-      (value "500")
+      (value "1k")
       (footprint "Footprints:SMD_0402")
       (fields
         (field (name "Footprint") "Footprints:SMD_0402")

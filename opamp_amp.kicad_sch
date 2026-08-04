@@ -3428,7 +3428,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1k"
 			(at 127 78.74 90)
 			(effects
 				(font
@@ -3560,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1k"
 			(at 128.27 152.4 90)
 			(effects
 				(font
@@ -4329,7 +4329,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1k"
 			(at 127 45.72 90)
 			(effects
 				(font
@@ -5648,7 +5648,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1k"
 			(at 128.27 128.27 90)
 			(effects
 				(font
